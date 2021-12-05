@@ -1,5 +1,5 @@
 ### Hi  👋 I am RHY  在读大学狗一个 
-###在学的是软件开发和CTF网络安全
+在学的是软件开发和CTF网络安全
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/renhy04)
