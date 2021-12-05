@@ -12,8 +12,8 @@
 [![易语言](https://img.shields.io/badge/-易语言-F00?style=flat&logo=&logoColor=white)](#)
 [![VB](https://img.shields.io/badge/-VB-blue)](#)
  
-[![Photoshop](https://img.shields.io/badge/-Photoshop-00c8f9?style=flat&logo=adobe%20photoshop&logoColor=white)](#)
-[![Premiere](https://img.shields.io/badge/-Premiere-00c8f9?style=flat&logo=adobe%20premiere&logoColor=white)](#)
+[![Photoshop](https://img.shields.io/badge/Adobe-Photoshop%20-blue)](#)
+[![Premiere](https://img.shields.io/badge/Adobe-Premiere%20-blueviolet)](#)
 ---
 ## 🌱目前在学的语言
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
