@@ -1,4 +1,4 @@
-### Hi  👋 I am RHY  在读大学狗一个 😄
+### Hi  👋 I am Rerizon  在读大学狗一个 😄
 在学的是软件开发和CTF网络安全
 
 💬
