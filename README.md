@@ -22,9 +22,11 @@
 ## 🌱目前在学的语言
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
+[![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 
 ## ⚡想学
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
 
 
 
